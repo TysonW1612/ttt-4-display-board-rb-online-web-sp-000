@@ -5,7 +5,7 @@
 board = ["X", " ", "O", " ", "X", "O", " ", "O", "X"]
 
 
-def display_board
+def display_board 
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
@@ -14,3 +14,4 @@ def display_board
   
 end
 
+def display_board(board)
